@@ -34,24 +34,24 @@
  SUB PAGE HERO STYLES 
 ================================== */
 .heroElectrical {
-  background-image: url('/media/d1a15fa6-f55a-480f-b124-e1c2d14352fc.png'); /* Replace with your image */
+  background-image: url('media/d1a15fa6-f55a-480f-b124-e1c2d14352fc.png'); /* Replace with your image */
  
 }
 .heroSecurity {
-  background-image: url('/media/80cada0d-27f8-4aca-9572-8e276f287189.png'); /* Replace with your image */
+  background-image: url('media/80cada0d-27f8-4aca-9572-8e276f287189.png'); /* Replace with your image */
  
 }
 .heroData {
-  background-image: url('/media/d1a15fa6-f55a-480f-b124-e1c2d14352fc.png'); /* Replace with your image */
+  background-image: url('media/d1a15fa6-f55a-480f-b124-e1c2d14352fc.png'); /* Replace with your image */
  
 }
 .heroAC {
-  background-image: url('/media/73fdca75-1e51-43c5-86ea-715be7c6440b.png'); /* Replace with your image */
+  background-image: url('media/73fdca75-1e51-43c5-86ea-715be7c6440b.png'); /* Replace with your image */
  
 }
 
 .heroSolar {
-  background-image: url('/media/pexels-photo-5724030.jpeg'); /* Replace with your image */
+  background-image: url('media/pexels-photo-5724030.jpeg'); /* Replace with your image */
  
 }
 
