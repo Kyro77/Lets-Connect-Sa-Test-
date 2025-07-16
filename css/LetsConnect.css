@@ -280,7 +280,7 @@ ul {
 .close-btn {
   position: absolute; /* Make it positionable inside its container */
   top: 0;           /* Adjust as needed */
-  right: 10vw;         /* Adjust as needed */
+  right: 3vw;         /* Adjust as needed */
 
   font-size: 5.5rem;
   color: var(--color-text);
