@@ -1175,6 +1175,21 @@ footer {
     margin: 1rem;
   }
 
+   .bgr-content {
+      height: 99vh;
+      padding: 2rem;
+   
+   }
+
+   .bgr-contact{
+      justify-content: center
+   }
+
+   .bgr-navigation {
+    align-items: center;
+    flex-direction: row;
+   } 
+
 
  
 
