@@ -611,6 +611,12 @@ ul {
   margin: 0 auto;
 }
 
+.service-cards > *:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+  justify-self: center;
+  width: 100%; /* or 48% if you want to match others */
+}
+
 .service-card {
   display: flex;
   flex-direction: column;
