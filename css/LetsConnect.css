@@ -328,7 +328,8 @@ ul {
 
 .bgr-contact {
   color: black;
-  padding: 2rem;
+  padding: 4rem;
+  padding-right: 0px;
   max-width: 600px;
   display: flex;
   align-items: center;
