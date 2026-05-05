@@ -814,14 +814,22 @@ ul {
   margin: auto;
 }
 
+/* WRAPPER (fixes anti-aliasing / scaling issues) */
+.grid-container > div {
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: 12px;
+  background-color: var(--color-secondary);
+}
+
 /* IMAGES */
 .grid-container img {
   width: 100%;
-  aspect-ratio: 4 / 3; /* keeps clean consistent shape */
+  height: 100%;
   object-fit: cover;
-  border-radius: 12px;
-  background-color: var(--color-secondary);
+  display: block;
   transition: transform 0.3s ease;
+  transform: translateZ(0);
 }
 
 /* nice hover effect */
